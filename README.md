@@ -1,2 +1,2 @@
-# snake_game
+# Snake game
 Simple snake game in python
